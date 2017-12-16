@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "funsircles.data.unityweb",
+"asmCodeUrl": "funsircles.asm.code.unityweb",
+"asmMemoryUrl": "funsircles.asm.memory.unityweb",
+"asmFrameworkUrl": "funsircles.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
